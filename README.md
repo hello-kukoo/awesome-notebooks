@@ -1,2 +1,3 @@
 # awesome-notebooks
-awesome Jupyter notebooks
+We put some awesome Jupyter notebooks here, for learning and reference.
+
