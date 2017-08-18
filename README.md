@@ -14,3 +14,4 @@ We put some awesome Jupyter notebooks here, for learning and reference.
 * [线性回归](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/2-linear-regression.ipynb)
 * [特征提取预处理](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/3-feature-extraction-and-preprocessing.ipynb)
 * [从线性回归到逻辑回归](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/4-from-linear-regression-to-logistic-regression.ipynb)
+* [决策树-非线性回归与分类](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/5-nonlinear-classification-and-regression-with-decision-trees.ipynb)
