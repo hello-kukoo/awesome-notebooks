@@ -17,3 +17,5 @@ We put some awesome Jupyter notebooks here, for learning and reference.
 * [决策树-非线性回归与分类](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/5-nonlinear-classification-and-regression-with-decision-trees.ipynb)
 * [K-means 聚类](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/6-clustering-with-k-means.ipynb)
 * [用PCA主成分分析降维](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/7-dimensionality-reduction-with-pca.ipynb)
+* [感知器](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/8-the-perceptron.ipynb)
+* [从感知器到支持向量机](http://nbviewer.jupyter.org/github/palandatarxcom/awesome-notebooks/blob/master/scikit-learn-notebooks/9-from-the-perceptron-to-support-vector-machines.ipynb)
